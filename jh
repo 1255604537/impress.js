@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Impress <a title="Tutorial" href="http://www.woiweb.net/tag/tutorial">Tutorial</a></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+ 
+    </body>
+</html>
+<div class="step" data-x="0" data-y="0">
+    This is my first slide
+</div>
+第二个幻灯片的x值为500，但y值为0，这意味着当它活动的时候它将会出现在穿过x轴(向左滑动)500px的地方。
+?
+1
+2
+3
+<div class="step" data-x="500" data-y="0">
+    This is slide 2
+</div>
